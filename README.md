@@ -48,16 +48,3 @@ Installation
 **WARNING:** WebUI is open to the public by default, it can be used to execute any command which may harm your system. Please use it in an internal network or [enable `need-auth` for webui](http://docs.pyspider.org/en/latest/Command-Line/#-config).
 
 Quickstart: [http://docs.pyspider.org/en/latest/Quickstart/](http://docs.pyspider.org/en/latest/Quickstart/)
-
-Contribute
-----------
-
-* Use It
-* [中文问答](http://segmentfault.com/t/pyspider)
-
-TODO
-----
-
-### v0.4.0
-
-- [ ] a visual scraping interface like [portia](https://github.com/scrapinghub/portia)
